@@ -1,0 +1,5 @@
+{
+  "name": "Block Explorer",
+  "description": "A React application to explore blockchain data, similar to Etherscan, with AI-powered summaries using the Gemini API.",
+  "requestFramePermissions": []
+}
